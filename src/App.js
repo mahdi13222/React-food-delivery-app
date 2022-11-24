@@ -1,4 +1,4 @@
-import Layout from "./components/Layout/Layout";
+import Layout from "./components/Helmet/Layout";
 
 function App() {
   return <Layout />;
